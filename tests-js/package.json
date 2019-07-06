@@ -1,11 +1,8 @@
 {
   "name": "tests-primer",
   "version": "1.0.0",
-  "description": "test package for software-testing.ru",
-  "main": "test.js",
-  "scripts": {
-    "test": "mocha"
-  },
-  "author": "alan73",
-  "license": "ISC"
+  "dependencies": {
+    "mocha": "6.1.4",
+    "selenium-webdriver": "~4.0.0-alpha"
+  }
 }
