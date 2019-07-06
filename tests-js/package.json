@@ -1,0 +1,11 @@
+{
+  "name": "tests-primer",
+  "version": "1.0.0",
+  "description": "test package for software-testing.ru",
+  "main": "test.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "alan73",
+  "license": "ISC"
+}
